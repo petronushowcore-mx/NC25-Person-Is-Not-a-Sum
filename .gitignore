@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+person_harness.break-result.json
+person_harness-break-result.json
