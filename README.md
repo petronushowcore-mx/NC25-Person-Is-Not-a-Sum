@@ -1,5 +1,7 @@
 # The Person Is Not a Sum
 
+![The Person Is Not a Sum — same total, different histories](assets/person-cover.png)
+
 **The Thousand-Year Warrior II, or The Person Is Not a Sum**  
 by MxBv · Navigational Cybernetics 2.5
 
