@@ -58,3 +58,5 @@ The June publication date belongs to the essay. It does not backdate the Septemb
 [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) — MxBv.
 
 [Part I](https://doi.org/10.17605/OSF.IO/ZY3PW) · [NC2.5 v2.1](https://doi.org/10.17605/OSF.IO/NHTC5)
+
+The essay offers a structural interpretation of moral evaluation; it does not establish a moral code or issue judgments about particular people.
